@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'Ebrima';
+    src: url(ebrima.ttf) ;
+}
+
+h1, p{
+    font-family: Ebrima;
+}
